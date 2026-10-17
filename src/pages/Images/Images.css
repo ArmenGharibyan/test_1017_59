@@ -1,0 +1,18 @@
+.box{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    gap: 10px;
+}
+
+.box div{
+    width: 30%;
+    background-color: darkgoldenrod;
+}
+
+.up{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 50px;
+}
